@@ -9,7 +9,7 @@ license_text:  Nathan Lineback-Toasty Technology
 categories:
   - GUI
   - OS
-  - Destop
+  - Desktop
 tags:
   - ΙΒΜ
   - VisiCorp
