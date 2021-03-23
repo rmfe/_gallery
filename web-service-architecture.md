@@ -7,7 +7,7 @@ year: 2021
 license_url: https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=rich
 license_text: Web Services Triangle Architecture 
 categories:
-  - Αρχέτυπα 
+  - Εργαλεία
 tags:
   - Web Service
   - Architecture
