@@ -7,7 +7,7 @@ year: 2021
 license_url: https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich
 license_text: Sur le stand Windows Azure aux #techdays 2010, présentation de l'offre Cloud Microsoft 
 categories:
-  -  Μοντέλα
+  - Εργαλεία
 tags:
   - Microsoft
   - Azure
