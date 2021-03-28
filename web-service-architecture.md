@@ -1,6 +1,6 @@
 ---
 author: rmfe
-title: Web Service  Architecture 
+title: web-service-architecture
 image_url: /images/web-service-architecture.jpg
 caption: Με τις web services οι χρήστες διαμοιράζονται δεδομένα μεταξύ δυο διαφορετικών λειτουργικών συστημάτων μέσω αιτημάτων και απαντήσεων μεταξύ του web server και των χρηστών.
 year: 2021
