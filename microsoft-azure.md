@@ -1,6 +1,6 @@
 ---
 author: rmfe
-title: Microsoft Azure
+title: /images/microsoft-azure.jpg
 image_url: microsoft-azure.jpg
 caption: Η εφαρμογή azure της Microsoft, είναι μια cloud based πλατφόρμα. Οι λειτουργίες της εφαρμογής εκτελούνται κανονικά στο λογισμικό του χρήστη, εφόσον η εφαρμογή αντιστοιχίζει τις οδηγίες του χρήστη με αυτές που έχει ορίσει στον cloud server.
 year: 2021
